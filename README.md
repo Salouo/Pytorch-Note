@@ -1,2 +1,2 @@
-# Pytorch-Note
+# Note
 Just for myself
