@@ -1,2 +1,0 @@
-# Note
-Just for myself
